@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExDadosAdapter</string>
+    <string name="app_logo">Starbucks Café</string>
+    <string-array name="options">
+        <item>Cafés</item>
+        <item>Comidas</item>
+        <item>Store</item>
+    </string-array>
+</resources>
+
